@@ -1,6 +1,6 @@
 # hello-world
 
-Greeting Earthling,
+Greetings Earthlings,
 
 I'm a student working through Java courses at university.
 
